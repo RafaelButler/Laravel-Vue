@@ -1,15 +1,13 @@
 <template>
   <div>
-    Home
+  {{ teste }}
   </div>
 </template>
 
 <script>
-import About from './About.vue';
-
 export default {
-  components: {
-    About
+  props: {
+    teste: String
   }
   
 }
