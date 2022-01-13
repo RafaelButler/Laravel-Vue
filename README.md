@@ -5,7 +5,7 @@
   <a href="https://br.vuejs.org/images/logo.svg" target="_blank">
     <img src="https://br.vuejs.org/images/logo.svg" width="100">
   </a>
-<</p>
+</p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
